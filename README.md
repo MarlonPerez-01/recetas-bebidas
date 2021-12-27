@@ -1,6 +1,6 @@
 # Buscador de recetas de bebidas
 
-Aplicación construida con [react](https://es.reactjs.org/) utilizando context que permite buscar recetas de bebidas a partir de la api [thecocktaildb](https://www.thecocktaildb.com/).
+Aplicación construida con [react](https://es.reactjs.org/) utilizando context que permite buscar recetas de bebidas a partir de la api [thecocktaildb](https://www.thecocktaildb.com/) mostrando detalladamente instrucciones e ingredientes mediante modals.
 
 ![Buscador de recetas de bebidas](https://res.cloudinary.com/dcekawcxi/image/upload/v1640643324/github/Buscador_de_recetas_de_bebidas_kfbjgr.png)
 
